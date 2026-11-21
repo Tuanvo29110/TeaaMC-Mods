@@ -1,4 +1,50 @@
 {
   "schemaVersion": 1,
-  "versions": {}
+  "versions": {
+    "1.21": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.jar",
+      "sha256": "950d6c65f11d627c9af034552eb34870dc13d1f962592b5a8a2fa2edd267ed43"
+    },
+    "1.21.1": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.1.jar",
+      "sha256": "dbabcafb3215bb24a11a799cf31d88497d905b1ec1f3777a1969fd7665715e64"
+    },
+    "1.21.4": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.4.jar",
+      "sha256": "876964e0334cec104b23c29bbf5f23deef98b429f8f05887d417c4fc9f105bac"
+    },
+    "1.21.6": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.6.jar",
+      "sha256": "5a45e505742b52b4a1a353222dcb3af65d89669688147012e05d99cac7b5a4f4"
+    },
+    "1.21.8": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.8.jar",
+      "sha256": "e553979f3d39f9f2836966ec9534edf6609b8091fbd491d7dc67886163714711"
+    },
+    "1.21.11": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-1.21.11.jar",
+      "sha256": "a5f8aaa80e99334044f30dca82b3b32b19a75e91d79c5b964e10a56edfac4c67"
+    },
+    "26.1.2": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-26.1.2.jar",
+      "sha256": "9392635193343359a003fa4fd80ce170000bb5bb9fb14a6f40d58211bef8f940"
+    },
+    "26.2": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-26.2.jar",
+      "sha256": "9bb52a520e9c5932f4031715539c01915001e7f59d9ce91affc87879de3321d8"
+    },
+    "26.3": {
+      "build": 1,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-1/TeaaMC-26.3.jar",
+      "sha256": "72a201f798cfcdd7723a59c63778761e7b2da75142ddaee2b155535cd9bc858f"
+    }
+  }
 }
