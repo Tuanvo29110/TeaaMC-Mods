@@ -2,39 +2,39 @@
   "schemaVersion": 1,
   "versions": {
     "1.21.4": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-1.21.4.jar",
-      "sha256": "5d3ac131956783ee8e1323d26f2ea9f4acec70e97b1044067095f808fdad3819"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-1.21.4.jar",
+      "sha256": "a7ed6aa81c13f31359e6e824c3cf13496f50aa675ac5b5b4a3431dcc2abe3684"
     },
     "1.21.6": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-1.21.6.jar",
-      "sha256": "e1a48bd3a6c617431213573ddaae1d30830fe2c0578701ba1afd5ebfde4241a7"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-1.21.6.jar",
+      "sha256": "dddbd2da03caea640b7f5a8be60bf600092bc018e8177ace7fee5ba0819554ac"
     },
     "1.21.8": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-1.21.8.jar",
-      "sha256": "30de5dc8a37654c0831302d948c139c1f77ac5564308305752820eee2ba104e3"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-1.21.8.jar",
+      "sha256": "8904617f669bd2ff4f25be4f9826656f6da9a66b0ce92010a4425622aac79794"
     },
     "1.21.11": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-1.21.11.jar",
-      "sha256": "a0dccc20d126cdc24aeb59b80931b0287de8a5c9a2e6bca011d8d25896d163dc"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-1.21.11.jar",
+      "sha256": "c20805226e7e0c78c55fac8aeecb60ebdd07bdb692036ab53a350fa82e2cc12e"
     },
     "26.1.2": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-26.1.2.jar",
-      "sha256": "a2a8a80791b4ce9f019b78e0d29f10419879561ae7f5f726753d467f88fad36b"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-26.1.2.jar",
+      "sha256": "e4e569995af2f1564873cb8ee643603d988501895973c5f53946b1011e2b9a3a"
     },
     "26.2": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-26.2.jar",
-      "sha256": "f8cddb75a5fd170acc0d5bbd298142b1456050c5a01bd34364e18f950f279485"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-26.2.jar",
+      "sha256": "22ee2eaba2aa176c25202cebed6018ad0d0dd34b56246cf20de5791c9000d464"
     },
     "26.3": {
-      "build": 18,
-      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-18/TeaaMC-26.3.jar",
-      "sha256": "d2a76e9b3bddee80690c422bea3589c25118fd4d9a653b22b02c4cb441ababc8"
+      "build": 20,
+      "url": "https://github.com/Tuanvo29110/TeaaMC-Mods/releases/download/build-20/TeaaMC-26.3.jar",
+      "sha256": "a538de91c6c8be8b54b849062c9e8e85799ea585caf19c491ee3d58d91df9115"
     }
   }
 }
